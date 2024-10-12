@@ -1,0 +1,12 @@
+{
+  "repositories": {
+    "YOURNAME/REPO": {
+      "secret": "YOURSECRET",
+      "discord_webhook_url": "YOURDISCORDWEBHOOK"
+    },
+    "ORGANISATION/REPO2": {
+      "secret": "YOURSECRET",
+      "discord_webhook_url": "YOURDISCORDWEBHOOK"
+    }
+  }
+}

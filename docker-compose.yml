@@ -1,0 +1,8 @@
+services:
+  app:
+    restart: always
+    image: lvckyzaros/github-commit-api:latest
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./config.json:/app/config.json

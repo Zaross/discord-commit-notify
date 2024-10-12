@@ -1,0 +1,6 @@
+Flask
+requests==2.25.1
+Werkzeug==2.0.3
+gevent-websocket
+Flask-SocketIO
+Flask-Cors
