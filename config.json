@@ -8,5 +8,6 @@
       "secret": "YOURSECRET",
       "discord_webhook_url": "YOURDISCORDWEBHOOK"
     }
-  }
+  },
+  "unknown_webhook_url": "YOURDISCORDWEBHOOK"
 }
