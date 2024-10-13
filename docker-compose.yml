@@ -6,3 +6,5 @@ services:
       - "5000:5000"
     volumes:
       - ./config.json:/app/config.json
+    networks:
+      - github_api
